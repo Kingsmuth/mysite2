@@ -6,6 +6,9 @@ h1 {
   color: #FF97C1;
   line-height: 2;
 }
+p {
+  font-family: "Montserrat";
+}
 hr {
   border-style: dotted none none none;
   border-width: 6px;
@@ -115,4 +118,12 @@ a:hover {
 }
 .contact-me {
   padding-bottom: 100px;
+}
+.social-icon {
+  margin: 10px;
+}
+.attribution {
+  font-family: "Montserrat";
+  font-weight: lighter;
+  margin-top: 10%;
 }
